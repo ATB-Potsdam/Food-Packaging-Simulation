@@ -1,0 +1,8 @@
+The simulation program provides a flexible system to input predefined supply chain conditions and the properties of fresh produce and packaging material, thus, minimizing the costly and time-consuming experimental procedures for selecting the optimum packaging material for fresh produce. Produce-package-atmosphere systems are integrated into the form of ordinary differential equations and solved using numerical methods in MATLAB.
+•	The simulation program is useful for designing the size and number of perforations to achieve equilibrium modified atmosphere packaging (EMAP) alone or in combination with packaging material having a higher water transmission rate or active moisture absorber. 
+•	The simulation program is also useful for predicting the shelf life of fresh produce under the actual supply chain conditions.
+
+Find more information in an Open Access publication: https://www.sciencedirect.com/science/article/pii/S2215016121003071
+  
+Please cite this paper when using the software in scientific papers: 
+Jalali A., Linke M., Geyer M. and Mahajan P. (2021). Integrative programming for simulation of packaging headspace and shelf life of fresh produce. MethodsX (in press) 
